@@ -1,5 +1,7 @@
 # Build Chatbot with Facebook API, Heroku and Python
 
+## Modified from https://github.com/lemonlatte/myCurrencyBot
+
 ## 1. Install Heroku (Follow the instructions)
 https://devcenter.heroku.com/start
 
